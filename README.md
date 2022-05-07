@@ -1,34 +1,7 @@
-### Hi there 👋
+### 👋  Hi there!
 
-<!--
-**Topbin2/Topbin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💪 Skills
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-   
-
-👋  Hi there! I'm full stack developer skilled in API, WEB, and APP.🚀
-I have experience 7 years of Android development and 2 years of iOS development.
-For the past year, I have been interested in creating Graph-QL APIs with Quarkus and a web screen with React.
-Sometimes I develop cross-platforms mobile app like ReactNative or Flutter. (but prefer native💖)
-
-I enjoy hiking, swimming, dive and surf. ⛰ 🏄
-I hope to develop every beautiful things. ✨
-
-💪 Skills
-Platforms & Languages
-     
-
-   
-
-Tools
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233A378E&title_bg=%23042537&icon=github.svg&icon_color=%23E7E7E7&title=HI&edge_flat=false)](https://hits.seeyoufarm.com)
     
